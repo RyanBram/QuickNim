@@ -1,0 +1,2 @@
+qjs.exe -h
+pause

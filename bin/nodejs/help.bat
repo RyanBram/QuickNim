@@ -1,0 +1,2 @@
+node.exe -h
+pause

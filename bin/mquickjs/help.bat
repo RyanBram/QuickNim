@@ -1,0 +1,2 @@
+mqjs.exe -h
+pause

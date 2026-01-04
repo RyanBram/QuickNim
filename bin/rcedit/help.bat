@@ -1,0 +1,2 @@
+rcedit.exe -h
+pause
